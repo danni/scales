@@ -14,8 +14,8 @@ keys = [ 'c', 'g', 'd', 'a', 'e', 'f', 'bes', 'ees', 'aes' ]
 minorkeys = [ 'a', 'e', 'b', 'fis', 'cis', 'd', 'g', 'c', 'f' ]
 scales = [
     'Major',
-    'NatMinor',
     'HarMinor',
+    'MelMinor',
     'Dorian',
     'Lydian',
     'Mixolydian',
@@ -28,8 +28,8 @@ time = {
 }
 
 scalenames = {
-    'NatMinor': 'nat. minor',
     'HarMinor': 'har. minor',
+    'MelMinor': 'mel. minor asc.',
     'Pentatonic' : 'Pent.',
 }
 

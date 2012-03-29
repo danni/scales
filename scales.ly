@@ -3,8 +3,8 @@
 }
 
 Major = \relative c' { c d e f g a b c }
-NatMinor = \relative c' { a b c d e f g a }
 HarMinor = \relative c' { a b c d e f gis a }
+MelMinor = \relative c' { a b c d e fis gis a }
 Blues = \relative c' { c d ees f fis g bes c }
 Dorian = \relative c' { c d ees f g a bes c }
 Lydian = \relative c' { c d e fis g a b c }

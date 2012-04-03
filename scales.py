@@ -20,11 +20,12 @@ scales = [
     'Lydian',
     'Mixolydian',
     'Blues',
-    'Pentatonic'
+    'Pentatonic',
 ]
 
 time = {
-    'Pentatonic': r'\time 6/4'
+    'Pentatonic': r'\time 6/4',
+    'Blues': r'\time 7/4',
 }
 
 scalenames = {
